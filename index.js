@@ -119,7 +119,7 @@ const questions = [
     },
     // Email Address
     {
-        tcleaype: 'input',
+        type: 'input',
         name: 'email',
         message: 'Would you like to include your email?',
     },
