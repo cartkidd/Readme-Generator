@@ -1,4 +1,4 @@
-# Readme
+# Readme Generator
   ## Licensing:
   [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
   ## Table of Contents 
@@ -9,17 +9,17 @@
   - [Testing](#testing)
   - [Additional Info](#additional-info)
   ## Description:
-  Using the terminal to create a Readme
+  A readme through node
   ## Installation:
-  License
+  through the terminal
   ## Usage:
-  for class
+  As a Readme for a project
   ## License:
   
   ## Contribution:
-  Theymcan update Readme
+  As a blueprint for a Readme
   ## Testing:
-  in terminal
+  through the terminal
   ## Additional Info:
   - Github: [cartkidd](https://github.com/cartkidd)
   - Email: cartrellk56@gmail.com 
