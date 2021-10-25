@@ -17,7 +17,7 @@
   ## License:
   
   ## Contribution:
-  Theymcan update Readme
+  They can update Readme
   ## Testing:
   in terminal
   ## Additional Info:
